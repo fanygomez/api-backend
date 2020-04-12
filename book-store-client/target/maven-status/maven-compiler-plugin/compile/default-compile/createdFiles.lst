@@ -1,0 +1,6 @@
+com\kodnito\bookstore\rest\BookStoreEndpoint.class
+com\kodnito\bookstore\rest\HelloWorldEndpoint.class
+com\kodnito\bookstore\rest\ApplicationConfig.class
+com\kodnito\bookstore\response\BookResponse.class
+com\kodnito\bookstore\rest\BookStoreClientHealthCheck.class
+com\kodnito\bookstore\service\BookStoreService.class
